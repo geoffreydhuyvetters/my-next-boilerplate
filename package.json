@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "@hookform/resolvers": "^2.8.5",
-    "jotai": "^1.4.7",
+    "jotai": "^1.4.9",
     "next": "^12.0.7",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-hook-form": "^7.22.5",
-    "react-query": "^3.34.4",
+    "react-hook-form": "^7.22.1",
+    "react-query": "^3.34.6",
     "zod": "^3.11.6"
   },
   "name": "my-next-boilerplate",
@@ -14,11 +14,11 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^17.0.37",
+    "@types/react": "^17.0.38",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.5",
     "prettier": "^2.5.1",
-    "tailwindcss": "^3.0.5",
+    "tailwindcss": "^3.0.7",
     "typescript": "^4.5.4"
   }
 }
