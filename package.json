@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@hookform/resolvers": "^2.8.5",
+    "@hookform/resolvers": "^2.8.8",
     "jotai": "^1.5.2",
     "next": "^12.0.8",
     "react": "^17.0.2",
