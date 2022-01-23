@@ -50,10 +50,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@hookform/resolvers@^2.8.5":
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-2.8.5.tgz#25b902bd40516c1755bc857753283de740560aff"
-  integrity sha512-n7eFm4snsejpfZVH8q2NU7YJbsGhF61IHB0TxgK11nmg08RymEr3KscnbTAZaPd9RaXa3vUPoULgBRN2nVDtMg==
+"@hookform/resolvers@^2.8.8":
+  version "2.8.8"
+  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-2.8.8.tgz#17cf806485435877fdafce9f3bee6ff68f7f87b6"
+  integrity sha512-meAEDur1IJBfKyTo9yPYAuzjIfrxA7m9Ov+1nxaW/YupsqMeseWifoUjWK03+hz/RJizsVQAaUjVxFEkyu0GWg==
 
 "@next/env@12.0.8":
   version "12.0.8"
@@ -930,10 +930,10 @@ react-is@17.0.2:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-query@^3.34.8:
-  version "3.34.8"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.34.8.tgz#a3be8523fd95f766b04c32847a1b58d8231db03c"
-  integrity sha512-pl9e2VmVbgKf29Qn/WpmFVtB2g17JPqLLyOQg3GfSs/S2WABvip5xlT464vfXtilLPcJVg9bEHHlqmC38/nvDw==
+react-query@^3.34.11:
+  version "3.34.11"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.34.11.tgz#314983ce13fef087d933cf1079aa2df93cb8f97c"
+  integrity sha512-vRC9J8dklE6rQ1uQHveNgoXOH4ceOn6Ww2+XUYOrEsUaSBZ76aQ/VTzDanXJn+E78lFQn0ajdSomduXP55iCwg==
   dependencies:
     "@babel/runtime" "^7.5.5"
     broadcast-channel "^3.4.1"
@@ -1157,10 +1157,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-typescript@^4.5.4:
-  version "4.5.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.4.tgz#a17d3a0263bf5c8723b9c52f43c5084edf13c2e8"
-  integrity sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg==
+typescript@^4.5.5:
+  version "4.5.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.5.tgz#d8c953832d28924a9e3d37c73d729c846c5896f3"
+  integrity sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==
 
 unload@2.2.0:
   version "2.2.0"
