@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "main": "index.js",
+  "packageManager": "yarn@1.22.17",
   "workspaces": [
     "apps/*",
     "packages/*"
