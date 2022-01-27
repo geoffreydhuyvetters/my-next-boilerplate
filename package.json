@@ -7,30 +7,6 @@
     "apps/*",
     "packages/*"
   ],
-  "turbo": {
-    "pipeline": {
-      "build": {
-        "dependsOn": [
-          "^build"
-        ],
-        "outputs": [
-          "dist/**",
-          ".next/**"
-        ]
-      },
-      "start": {
-        "dependsOn": [
-          "build"
-        ]
-      },
-      "dev": {
-        "cache": false
-      },
-      "lint": {
-        "outputs": []
-      }
-    }
-  },
   "scripts": {
     "dev": "turbo run dev",
     "lint": "turbo run lint",
