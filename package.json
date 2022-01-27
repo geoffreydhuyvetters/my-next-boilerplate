@@ -6,7 +6,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hook-form": "^7.25.0",
-    "react-query": "^3.34.11",
+    "react-query": "^3.34.12",
     "zod": "^3.11.6"
   },
   "name": "my-next-boilerplate",
