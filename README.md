@@ -21,6 +21,10 @@ including
 - `format` formats all supported files with prettier
 - `format:check` same as `format` but only checks
 
+## remote caching
+
+[https://turborepo.org/docs/getting-started#setup-remote-caching-](https://turborepo.org/docs/getting-started#setup-remote-caching-)
+
 ## deployment
 
 [https://vercel.com/docs/concepts/git/monorepos](https://vercel.com/docs/concepts/git/monorepos)
