@@ -19,6 +19,6 @@
     "prettier": "^2.5.1"
   },
   "dependencies": {
-    "turbo": "^1.0.29"
+    "turbo": "^1.1.0"
   }
 }
