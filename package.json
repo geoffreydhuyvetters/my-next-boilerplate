@@ -19,7 +19,9 @@
         ]
       },
       "start": {
-        "dependsOn": ["build"]
+        "dependsOn": [
+          "build"
+        ]
       },
       "dev": {
         "cache": false
@@ -33,7 +35,9 @@
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "start": "turbo run start",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "devDependencies": {
     "prettier": "^2.5.1"
