@@ -21,6 +21,36 @@ including
 - `format` formats all supported files with prettier
 - `format:check` same as `format` but only checks
 
+## bash alias setup
+
+```
+
+alias np="new_project"
+
+function new_project {
+  mkdir "$1"
+  cd "$1"
+
+  git clone git@github.com:geoffreydhuyvetters/my-next-boilerplate.git .
+
+  rm -rf .git
+
+  git init
+  git add -A
+  git commit -m 'initial commit'
+
+  yarn # or npm i
+
+  code . # or other editor
+  open http://localhost:3000
+
+  yarn dev # or npm run dev
+}
+
+```
+
+use like this `np my-new-project`
+
 ## remote caching
 
 [https://turborepo.org/docs/getting-started#setup-remote-caching-](https://turborepo.org/docs/getting-started#setup-remote-caching-)
