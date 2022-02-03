@@ -12,14 +12,19 @@ including
 - [zod](https://github.com/colinhacks/zod)
 - [tailwindcss](https://tailwindcss.com/docs)
 
-## scripts
+## monorepo structure
+
+- `/apps` folder contains all the apps (I've set up a `web` app to tinker with, which runs on [http://localhost:3000](http://localhost:3000))
+- `/packages` folder contains shared packages
+
+## yarn/npm scripts
 
 - `dev` runs `dev` script in in all packages/apps
 - `build` runs `build` script in all packages/apps
 - `start` runs `start` script in all packages/apps (depends on `build`)
 - `lint` runs `lint` script in all packages/apps
 - `format` formats all supported files with prettier
-- `format:check` same as `format` but only checks
+- `format:check` same as `format` but only checks for code style, no changes
 
 ## bash alias setup
 
