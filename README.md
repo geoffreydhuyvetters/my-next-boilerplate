@@ -56,6 +56,12 @@ function new_project {
 
 use like this `np my-new-project`
 
+## packageManager
+
+When you're not using Yarn 1, you can change the "packageManager" key in `package.json` by running
+
+`npx @turbo/codemod add-package-manager`
+
 ## remote caching
 
 [https://turborepo.org/docs/getting-started#setup-remote-caching-](https://turborepo.org/docs/getting-started#setup-remote-caching-)
