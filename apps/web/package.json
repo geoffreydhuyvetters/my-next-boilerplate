@@ -7,7 +7,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hook-form": "^7.27.0",
-    "react-query": "^3.34.14",
+    "react-query": "^3.34.15",
     "zod": "^3.11.6"
   },
   "name": "my-next-boilerplate-web",
@@ -21,7 +21,7 @@
     "lint": "next lint"
   },
   "devDependencies": {
-    "@types/node": "^17.0.17",
+    "@types/node": "^17.0.18",
     "@types/react": "^17.0.39",
     "autoprefixer": "^10.4.2",
     "eslint": "8.9.0",
