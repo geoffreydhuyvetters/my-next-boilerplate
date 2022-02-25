@@ -14,7 +14,13 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "downlevelIteration": true
+    "downlevelIteration": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@/pages/*": ["pages/*"],
+      "@/styles/*": ["styles/*"],
+      "@/layouts/*": ["layouts/*"]
+    }
   },
   "include": ["packages/web/next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
