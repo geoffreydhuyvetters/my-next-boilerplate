@@ -2213,7 +2213,7 @@ yaml@^1.10.0, yaml@^1.10.2:
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-1.10.2.tgz#2301c5ffbf12b467de8da2333a459e29e7920e4b"
   integrity sha512-r3vXyErRCYJ7wg28yvBY5VSoAF8ZvlcW9/BwUzEtUsjvX/DKs24dIkuwjtuprwJJHsbyUbLApepYTR1BN4uHrg==
 
-zod@^3.12.1:
-  version "3.12.1"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.12.1.tgz#803adcc72bc4a6b8351f53f78ba4ac6c6fa12886"
-  integrity sha512-wm4Gm6ACayAagHRDIGyDS0H4dRI4gGVqOJ9M4X2UjwgN/rv+QPRUjcvGqZRHiVYVuvQTOszRSkZ074I1dzEy9A==
+zod@^3.13.3:
+  version "3.13.3"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.13.3.tgz#a280a831eb8c6d739efc029f6aa2153ae0c6dda9"
+  integrity sha512-EKG59eCMMw3vVhOccNp8lLNN4i1FUGedFlYs6fMKfN15mKkCi/8kYSzVMkApvo2vPdiFKTBQQ2MRbo0L3/92/w==
