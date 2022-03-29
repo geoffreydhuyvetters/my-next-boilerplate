@@ -4,7 +4,7 @@
     "@hookform/resolvers": "^2.8.8",
     "jotai": "^1.6.1",
     "next": "^12.1.2",
-    "react": "^17.0.2",
+    "react": "^18.0.0",
     "react-dom": "^17.0.2",
     "react-hook-form": "^7.28.1",
     "react-query": "^3.34.19",
