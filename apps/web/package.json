@@ -5,7 +5,7 @@
     "jotai": "^1.6.1",
     "next": "^12.1.2",
     "react": "^18.0.0",
-    "react-dom": "^17.0.2",
+    "react-dom": "^18.0.0",
     "react-hook-form": "^7.28.1",
     "react-query": "^3.34.19",
     "zod": "^3.14.3"
