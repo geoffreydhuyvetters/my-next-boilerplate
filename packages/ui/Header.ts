@@ -1,7 +1,7 @@
 import { styled } from './stitches.config';
 
 const Header = styled('h1', {
-  fontFamily: '$base',
+  fontFamily: '$header',
   fontSize: '$xlarge',
 });
 

@@ -20,6 +20,7 @@ export const { getCssText, styled, css } = createStitches({
     },
     fonts: {
       base: 'Helvetica',
+      header: 'Verdana',
     },
   },
 });
