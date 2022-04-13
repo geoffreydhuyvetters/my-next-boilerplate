@@ -1,7 +1,7 @@
 import { Header } from 'ui';
 
 export default {
-  title: 'Header',
+  title: 'typography/Header',
   component: Header,
 };
 

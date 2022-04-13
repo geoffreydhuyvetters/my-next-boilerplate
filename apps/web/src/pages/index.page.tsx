@@ -1,5 +1,5 @@
 import { DefaultLayout } from '@/layouts/DefaultLayout';
-import { Stack, Text, Header, Inline } from 'ui';
+import { Stack, Text, Header, Inline, Button } from 'ui';
 
 const Index = () => {
   return (
@@ -10,6 +10,7 @@ const Index = () => {
           <Text>start hacking!</Text>
           <Text>start hacking!</Text>
         </Inline>
+        <Button>click me</Button>
       </Stack>
     </DefaultLayout>
   );

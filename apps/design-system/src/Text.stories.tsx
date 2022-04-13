@@ -1,7 +1,7 @@
 import { Text } from 'ui';
 
 export default {
-  title: 'Text',
+  title: 'typography/Text',
   component: Text,
 };
 

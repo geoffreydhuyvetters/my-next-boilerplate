@@ -1,7 +1,7 @@
-import { Stack, Text } from 'ui';
+import { Button, Stack, Text } from 'ui';
 
 export default {
-  title: 'Stack',
+  title: 'primitives/Stack',
   component: Stack,
 };
 
@@ -9,6 +9,6 @@ export const Basic = () => (
   <Stack>
     <Text>this</Text>
     <Text>is</Text>
-    <Text>stacking</Text>
+    <Button>stacking</Button>
   </Stack>
 );

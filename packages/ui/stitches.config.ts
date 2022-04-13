@@ -22,6 +22,10 @@ export const { getCssText, styled, css } = createStitches({
       base: 'Helvetica',
       header: 'Verdana',
     },
+    colors: {
+      primary: '#666',
+      secondary: 'white',
+    },
   },
 });
 

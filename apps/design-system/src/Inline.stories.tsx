@@ -1,7 +1,7 @@
 import { Inline, Text } from 'ui';
 
 export default {
-  title: 'Inline',
+  title: 'primitives/Inline',
   component: Inline,
 };
 
