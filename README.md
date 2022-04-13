@@ -11,10 +11,13 @@ including
 - [react-query](https://react-query.tanstack.com/overview)
 - [zod](https://github.com/colinhacks/zod)
 - [stitches](https://stitches.dev)
+- [storybook](https://storybook.js.org/)
 
 ## monorepo structure
 
-- `/apps` folder contains all the apps (I've set up a `web` app to tinker with, which runs on [http://localhost:3000](http://localhost:3000))
+- `/apps` folder contains all the apps
+  - contains a basic `/web` app to start with
+  - contains a `/design-system` which is basically a storybook setup for your ui components
 - `/packages` folder contains shared packages
   - contains a basic `/ui` library being worked on. Using [stitches](https://stitches.dev).
 
