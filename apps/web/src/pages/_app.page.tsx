@@ -1,4 +1,3 @@
-import { globalCss } from '@stitches/react';
 import type { AppProps } from 'next/app';
 
 import { useState } from 'react';
