@@ -1,0 +1,12 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@stitches/react": "^1.2.7"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}

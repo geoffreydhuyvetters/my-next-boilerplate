@@ -1,3 +1,5 @@
-module.exports = {
-  pageExtensions: ["page.tsx"],
-};
+const withTM = require('next-transpile-modules')(['ui']);
+
+module.exports = withTM({
+  pageExtensions: ['page.tsx'],
+});

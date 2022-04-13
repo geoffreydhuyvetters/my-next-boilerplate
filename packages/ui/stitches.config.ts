@@ -12,6 +12,15 @@ export const { getCssText, styled, css } = createStitches({
       7: '128px',
       8: '256px',
     },
+    fontSizes: {
+      base: '16px',
+      large: '22px',
+      xlarge: '26px',
+      xxlarge: '32px',
+    },
+    fonts: {
+      base: 'Helvetica',
+    },
   },
 });
 

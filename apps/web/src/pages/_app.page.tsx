@@ -2,7 +2,7 @@ import type { AppProps } from 'next/app';
 
 import { useState } from 'react';
 import { QueryClient, QueryClientProvider } from 'react-query';
-import { reset } from '../../stitches.config';
+import { reset } from 'ui';
 
 type PageProps = {};
 
