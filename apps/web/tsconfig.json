@@ -15,11 +15,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "downlevelIteration": true,
-    "baseUrl": "./src",
-    "paths": {
-      "@/pages/*": ["pages/*"],
-      "@/layouts/*": ["layouts/*"]
-    }
+    "baseUrl": "./src"
   },
   "include": ["packages/web/next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
