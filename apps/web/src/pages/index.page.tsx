@@ -3,7 +3,7 @@ import { Stack, Text, Header, Inline, Button } from 'ui';
 const Index = () => {
   return (
     <Stack>
-      <Header>Hello World</Header>
+      <Header>Hello world</Header>
       <Inline>
         <Text>start hacking!</Text>
         <Text>start hacking!</Text>
