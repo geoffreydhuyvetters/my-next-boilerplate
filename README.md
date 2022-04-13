@@ -10,12 +10,13 @@ including
 - [react-hook-form](https://react-hook-form.com/api/useform)
 - [react-query](https://react-query.tanstack.com/overview)
 - [zod](https://github.com/colinhacks/zod)
-- [tailwindcss](https://tailwindcss.com/docs)
+- [stitches](https://stitches.dev)
 
 ## monorepo structure
 
 - `/apps` folder contains all the apps (I've set up a `web` app to tinker with, which runs on [http://localhost:3000](http://localhost:3000))
 - `/packages` folder contains shared packages
+  - contains a basic `/ui` library being worked on. Using [stitches](https://stitches.dev).
 
 ## yarn/npm scripts
 
