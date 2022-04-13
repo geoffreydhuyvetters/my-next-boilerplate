@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "start-storybook -p 3001 --ci --quiet",
     "build": "build-storybook --quiet",
-    "start": ""
+    "start": "serve storybook-static -p 3001"
   },
   "devDependencies": {
     "@storybook/react": "^6.4.21",
