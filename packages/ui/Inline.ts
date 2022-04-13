@@ -7,6 +7,9 @@ const Inline = styled('section', {
   variants: {
     gap,
   },
+  defaultVariants: {
+    gap: '4',
+  },
 });
 
 export { Inline };

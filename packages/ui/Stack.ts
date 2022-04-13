@@ -7,6 +7,9 @@ const Stack = styled('section', {
   variants: {
     gap,
   },
+  defaultVariants: {
+    gap: '4',
+  },
 });
 
 export { Stack };
