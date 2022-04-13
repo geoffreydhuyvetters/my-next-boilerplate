@@ -3,7 +3,7 @@ import { styled } from '../../stitches.config';
 
 type Props = { children: ReactNode };
 
-const Main = styled('main', { padding: '30px' });
+const Main = styled('main', { padding: '$3' });
 
 const DefaultLayout = (props: Props) => {
   return <Main {...props} />;
