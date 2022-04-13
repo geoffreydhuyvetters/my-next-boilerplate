@@ -9,6 +9,7 @@
     "start": ""
   },
   "devDependencies": {
-    "@storybook/react": "^6.4.21"
+    "@storybook/react": "^6.4.21",
+    "serve": "^13.0.2"
   }
 }
