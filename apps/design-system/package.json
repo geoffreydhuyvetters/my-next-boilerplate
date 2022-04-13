@@ -1,0 +1,14 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "start-storybook -p 3001 --ci --quiet",
+    "build": "build-storybook --quiet",
+    "start": ""
+  },
+  "devDependencies": {
+    "@storybook/react": "^6.4.21"
+  }
+}
