@@ -4,7 +4,7 @@
   "main": "index.ts",
   "license": "MIT",
   "dependencies": {
-    "@stitches/react": "^1.2.7"
+    "@stitches/react": "^1.2.8"
   },
   "devDependencies": {
     "typescript": "^4.6.3"
