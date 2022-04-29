@@ -9,7 +9,7 @@
     "start": "serve storybook-static -p 3001"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-env": "^7.17.10",
     "@babel/preset-react": "^7.16.7",
     "@storybook/react": "6.5.0-beta.0",
     "serve": "^13.0.2",
