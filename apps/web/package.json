@@ -8,7 +8,7 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-hook-form": "^7.31.3",
-    "react-query": "4.0.0-beta.13",
+    "react-query": "4.0.0-beta.19",
     "zod": "^3.17.3"
   },
   "name": "my-next-boilerplate-web",
