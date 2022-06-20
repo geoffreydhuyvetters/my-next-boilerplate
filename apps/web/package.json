@@ -22,7 +22,7 @@
     "lint": "next lint"
   },
   "devDependencies": {
-    "@types/node": "^17.0.42",
+    "@types/node": "^18.0.0",
     "@types/react": "^18.0.12",
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6",
