@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^2.9.3",
-    "jotai": "^1.7.2",
+    "jotai": "^1.7.6",
     "next": "^12.1.6",
     "next-transpile-modules": "^9.0.0",
     "react": "^18.2.0",
